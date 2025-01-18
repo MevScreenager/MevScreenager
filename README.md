@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">Hi there, I'm Ilya</a> 
         <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-    <h3>Data Science</h3>
+    <h3>IT student | Data Science</h3>
 </div>
 
 ### About me
