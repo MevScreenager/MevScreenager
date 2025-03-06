@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">Hi there, I'm <a href="https://github.com/MevScreenager" target="_blank">Ilya</a>  
         <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-    <h3>IT student | Data Science</h3>
+    <h3>IT student | Data Science | Frontend</h3>
 </div>
 
 ### About me
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-800080?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-32CD32?style=for-the-badge&logo=android&logoColor=white)
+![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml)
 
 ### My stat
 
